@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="rotate">Rotate</string>
+    <string name="rotate_degree">Rotate Degree</string>
+    <string name="degree">Degree</string>
+    <string name="select_image">Select Image</string>
+</resources>
